@@ -1,6 +1,6 @@
-
-# 💫 About Me:
-Hi, I'm Minhazul Alamin<br>I'm currently learning React.js
+Hi, I'm Minhazul Alamin
+<br>
+I'm currently learning React.js
 
 
 ## 🌐 Socials:
