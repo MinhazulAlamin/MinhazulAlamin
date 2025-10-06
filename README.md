@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # 💫 About Me:
 Hi, I'm Minhazul Alamin<br>I'm currently learning React.js
