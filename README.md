@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./GitHub-Banner.png" width="100%" style="border-radius: 12px;" />
+  <img width=”400” src="./GitHub-Banner.png" />
 </p>
 
 <h1 align="center">About Me</h1>
