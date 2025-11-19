@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minhazul Alamin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. Who loves building dynamic, scalable, and user‑friendly web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhazulalamin" alt="minhazulalamin" /></a> </p>
 
 - 🌱 I’m currently learning **React.js,MongoDB**
 
@@ -21,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhazulalamin&show_icons=true&locale=en" alt="minhazulalamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazulalamin&" alt="minhazulalamin" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhazulalamin" alt="minhazulalamin" /></a> </p>
