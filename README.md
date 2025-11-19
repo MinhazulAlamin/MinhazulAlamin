@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/7wl8hc6kh/Github%20banner.png" width="100%" style="border-radius: 12px;" />
+  <img src="./GitHub-Banner.png" width="100%" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">About Me</h1>
