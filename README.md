@@ -1,7 +1,7 @@
 
 <h1 align="center">About Me</h1>
 <h1 align="center">Hi, I'm Minhazul Alamin</h1>
-<br>
+
 A passionate **Frontend Developer** & **MERN Stack Developer**, focused on creating **fast, scalable, and modern web applications**.
 
 <h4>I'm currently learning React.js</h4>
