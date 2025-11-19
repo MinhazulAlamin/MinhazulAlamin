@@ -4,7 +4,7 @@
 <br>
 <h3 align="center">A passionate frontend developer from Bangladesh. Who loves building dynamic, scalable, and user‑friendly web applications.</h3>
 
-I'm currently learning React.js
+<h4>I'm currently learning React.js</h4>
 
 
 ## 🌐 Connect with Me:
