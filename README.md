@@ -1,6 +1,6 @@
 
 ## 🔗 About ME:
-Hi, I'm Minhazul Alamin
+<h1 align="center">Hi, I'm Minhazul Alamin</h1>
 <br>
 <h3 align="center">A passionate frontend developer from Bangladesh. Who loves building dynamic, scalable, and user‑friendly web applications.</h3>
 
